@@ -1,16 +1,31 @@
-### Hi there 👋
+### Oi, meu nome é Núbia!👋
+Sejam bem vindos(as) ao meu perfil!
 
-<!--
-**NubiaTirabassi/NubiaTirabassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩🏽‍💻 **Estudante de Análise e desenvolvimento de sistemas**.
+- ✨ Apaixonada por arte, museus, livros, tecologia, natureza e viagens.
+- 🗣️ Você me enocntra falando sobre **Programação** no LinkedIn [Programação e Tecnologias] (https://www.linkedin.com/in/nubia-goncalves/).
+- 🖥️ Atualmente mais focada em: Html, CSS, JavaScript, PHP, Laravel, Flutter, Node.js e SQL.
+- 🖥️ Principais conhecimentos:
+  
+  <div style="display: inline">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </div>     
 
-Here are some ideas to get you started:
+  ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você me encontra em:
+&nbsp;<a href="[https://br.linkedin.com/in/nubia](https://www.linkedin.com/in/nubia-goncalves/))">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="https://www.instagram.com/tirabassi_nubia">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="[nu.ragagnin91@gmail.com](mailto:nu.ragagnin91@gmail.com))">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>&nbsp;
+          
+          
+          
