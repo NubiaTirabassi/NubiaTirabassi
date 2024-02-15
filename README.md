@@ -32,7 +32,7 @@ Sejam bem vindos(as) ao meu perfil!
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NubiaTirabassi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 ## Principais linguagens usadas
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NubiaTirabassi&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NubiaTirabassi&layout=compact&langs_count=9&theme=dracula&hide=html,css,scss,sass&exclude_repo=SEU_REPOSITORIO_EXCLUIDO"/>
 
 ## Você me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/nubia-goncalves/">
