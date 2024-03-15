@@ -28,9 +28,6 @@ Sejam bem vindos(as) ao meu perfil!
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </div>
 
-## Estatísticas
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NubiaTirabassi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
 ## Principais linguagens usadas
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NubiaTirabassi&layout=compact&langs_count=9&theme=dracula&hide=html,css,scss,sass&exclude_repo=SEU_REPOSITORIO_EXCLUIDO"/>
 
