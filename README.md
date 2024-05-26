@@ -3,8 +3,7 @@ Sejam bem vindos(as) ao meu perfil!
 
 - 👩🏽‍💻 **Estudante de Análise e desenvolvimento de sistemas**.
 - ✨ Apaixonada por arte, museus, livros, tecnologia, natureza e viagens.
-- 🗣️ Você me encontra falando sobre **Programação** no LinkedIn [Programação e Tecnologias](https://www.linkedin.com/in/nubia-goncalves/).
-- 🖥️ Atualmente mais focada em: HTML, CSS, JavaScript, PHP, Java, Flutter, Node.js e SQL, MySQL, Oracle.
+- 🖥️ Atualmente mais focada em: Java, C#, PostegreSQL, SQLServer.
 - 🖥️ Principais conhecimentos:
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
