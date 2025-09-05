@@ -1,9 +1,9 @@
 # Oi, meu nome é Núbia!👋
 Sejam bem vindos(as) ao meu perfil!
 
-- 👩🏽‍💻 **Estudante de Análise e desenvolvimento de sistemas**.
+- 👩🏽‍💻 **Graduada em Análise e desenvolvimento de sistemas**.
+- - 👩🏽‍💻 **Cursando MBA Gestão de Projetos e Processos com Métodos Ágeis e Inteligência Artificial**.
 - ✨ Apaixonada por arte, museus, livros, tecnologia, natureza e viagens.
-- 🖥️ Atualmente mais focada em: Java, C#, PostegreSQL, SQLServer.
 - 🖥️ Principais conhecimentos:
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
