@@ -2,7 +2,7 @@
 Sejam bem vindos(as) ao meu perfil!
 
 - 👩🏽‍💻 **Graduada em Análise e desenvolvimento de sistemas**.
-- - 👩🏽‍💻 **Cursando MBA Gestão de Projetos e Processos com Métodos Ágeis e Inteligência Artificial**.
+- 👩🏽‍💻 **Cursando MBA Gestão de Projetos e Processos com Métodos Ágeis e Inteligência Artificial**.
 - ✨ Apaixonada por arte, museus, livros, tecnologia, natureza e viagens.
 - 🖥️ Principais conhecimentos:
 
